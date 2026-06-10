@@ -51,7 +51,7 @@ WireGuard VPN Server
 * Learn VPN deployment and network security fundamentals
 
 ---
-
+![test](screenshots/Screenshot%202026-06-10%20145541.png)
 ## Phase 1 Completed
 
 ### EC2 Deployment
@@ -86,13 +86,13 @@ WireGuard VPN Server
 ## Screenshots
 
 ### EC2 Instance Running
-![EC2 Instance](screenshots/Screenshot 2026-06-10 145541.png)
+![EC2 Instance](screenshots/Screenshot%202026-06-10%20145541.png)
 
 ### Security Group Configuration
-![Security Group](screenshots/Screenshot 2026-06-10 145614.png)
+![Security Group](screenshots/Screenshot%202026-06-10%20145614.png)
 
 ### WireGuard Installation Verification
-![WireGuard](screenshots/Screenshot 2026-06-10 144126.png)
+![WireGuard](screenshots/Screenshot%202026-06-10%20144126.png)
 
 
 
