@@ -86,20 +86,15 @@ WireGuard VPN Server
 ## Screenshots
 
 ### EC2 Instance Running
-
-
+![EC2 Instance](screenshots/Screenshot 2026-06-10 145541.png)
 
 ### Security Group Configuration
+![Security Group](screenshots/Screenshot 2026-06-10 145614.png)
 
-(Add screenshot here)
+### WireGuard Installation Verification
+![WireGuard](screenshots/Screenshot 2026-06-10 144126.png)
 
-### Successful SSH Connection
 
-(Add screenshot here)
-
-### WireGuard Installation
-
-(Add screenshot here)
 
 ---
 
